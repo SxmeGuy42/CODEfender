@@ -1,0 +1,6 @@
+# Desktopová aplikace (GUI)
+PySide6==6.11.1
+
+# SAST nástroje agenta při analýze
+bandit>=1.7.5
+semgrep>=1.45.0
